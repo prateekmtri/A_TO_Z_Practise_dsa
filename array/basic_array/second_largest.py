@@ -3,9 +3,6 @@
 arr = list(map(int , input("Enter the value : ").split()))
 n = len(arr)
 
-arr = list(map(int , input("Enter the value : ").split()))
-n = len(arr)
-
 largest = arr[0]
 second_larest = float('-inf')   # changed
 
